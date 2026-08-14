@@ -1,1 +1,9 @@
-{"name":"HINAU’ITI — Caisse tactile","short_name":"HINAU’ITI","start_url":"./","display":"standalone","background_color":"#fff8ef","theme_color":"#fff8ef","orientation":"landscape"}
+{
+  "name": "HINAU’ITI — Caisse tactile",
+  "short_name": "HINAU’ITI",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#fff8ef",
+  "theme_color": "#fff8ef",
+  "orientation": "landscape"
+}
